@@ -1,29 +1,35 @@
 # Asia-carbon-emissions--Greenpeace
 
+## Overview
+This repository contains a Tableau visualization project that focuses on analyzing historical CO2 emissions data for the Asian continent, using data sourced from Our World in Data. The project aims to strengthen data visualization and storytelling skills while uncovering insights into Asia's emissions patterns.
 
+## Project Details
+- **Data Source**: CO2 emissions data by Our World in Data [https://github.com/owid/co2-data]
+- **Tools Used**: Tableau
+- **Visualization Link**:[https://public.tableau.com/app/profile/nidhi.dhama/viz/Asiacarbonemissions-Greenpeace/Story1]
 
+## Files
+- **Images**: Exported visualizations in the `images` directory
+- **Data File**: Located in the `data` directory
 
+## Visualizations Created:
+- Bar chart comparing Asia's greenhouse gas profile with other continents
+- Heat map of emissions across Asia
+- Line chart showing emissions trends for key Asian economies
+- Bar chart of top CO2 per capita emitters in Asia
+- Bubble chart comparing emissions with GDP and land impacts
 
+## Dashboards
+The visualizations were arranged into dashboards that:
+- Contrast emissions across continents
+- Compare country-level trends
+- Relate emissions to economic factors
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Findings
+- Asia's outsized contribution to global emissions
+- Increasingly steep emissions trajectories of developing nations in Asia
+- Linkages between emissions, economic growth, and environmental impacts
+- The urgency and complexity of reducing emissions in Asia
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to:
