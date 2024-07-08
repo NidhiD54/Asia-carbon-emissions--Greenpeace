@@ -4,7 +4,7 @@
 This repository contains a Tableau visualization project that focuses on analyzing historical CO2 emissions data for the Asian continent, using data sourced from Our World in Data. The project aims to strengthen data visualization and storytelling skills while uncovering insights into Asia's emissions patterns.
 
 ## Project Details
-- **Data Source**: CO2 emissions data by Our World in Data [https://github.com/owid/co2-data]
+- **Data Source**: CO2 and Greenhouse Gas Emissions by Our World in Data [https://github.com/owid/co2-data]
 - **Tools Used**: Tableau
 - **Visualization Link**:[https://public.tableau.com/app/profile/nidhi.dhama/viz/Asiacarbonemissions-Greenpeace/Story1]
 
@@ -30,6 +30,9 @@ The visualizations were arranged into dashboards that:
 - Increasingly steep emissions trajectories of developing nations in Asia
 - Linkages between emissions, economic growth, and environmental impacts
 - The urgency and complexity of reducing emissions in Asia
+
+## References
+- Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas-emissions' [Online Resource]
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to:
