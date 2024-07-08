@@ -1,4 +1,4 @@
-# Asia-carbon-emissions--Greenpeace
+# Asia carbon emissions - Greenpeace
 
 ## Overview
 This repository contains a Tableau visualization project that focuses on analyzing historical CO2 emissions data for the Asian continent, using data sourced from Our World in Data. The project aims to strengthen data visualization and storytelling skills while uncovering insights into Asia's emissions patterns.
